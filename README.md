@@ -7,7 +7,6 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python"></a>
-  <a href="https://github.com/YourUsername/VOIS-Website/issues"><img src="https://img.shields.io/github/issues/YourUsername/VOIS-Website" alt="Issues"></a>
 </p>
   <p align="center">Check Out : [🌐 VOIS AI Website](https://vois-website.vercel.app/)</p>
 
@@ -84,4 +83,5 @@ VOIS AI (**Voice-Operated Intelligent System**) is a **next-gen voice-controlled
 ## 🌐 Website Screenshots
 <img width="1000" height="605" alt="image" src="https://github.com/user-attachments/assets/8beacf6f-3fce-4d50-85e8-d093df5ea99e" />
 <img width="1000" height="594" alt="image" src="https://github.com/user-attachments/assets/51a984f8-85d8-4d20-9a10-0be57326a731" />
+
 
